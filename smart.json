@@ -1,0 +1,8 @@
+{
+  "name": "zip",
+  "description": "A wrapper around adm-zip",
+  "homepage": "https://github.com/tarangp/meteor-zip",
+  "author": "Tarang Patel  (http://tarang.me)",
+  "version": "0.1.0",
+  "git": "https://github.com/tarangp/meteor-zip.git"
+}
